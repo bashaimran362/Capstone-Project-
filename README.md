@@ -5,8 +5,29 @@ This is a Hotel Management tool which can be used to manage activites like stori
 
 
 # Technologies Used:
-## Environment / Technologies
-Spring Boot, Angular 10, Spring Data, Spring AOP, Jenkins, DevOps, AWS EC2, Microservices, HTML, CSS, JavaScript, Bootstrap, JUnit, Log4J, Hibernate.
+- Spring Boot
+- Angular 10
+- Spring Data
+- Spring AOP
+- Jenkins
+- DevOps
+- AWS EC2
+- Microservices
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- JUnit
+- Log4J
+- Hibernate.
+
+## Features:
+- Room management: The room management module of is like your virtual front desk. This functionality lets front desk agents check guests in and out, and cancel or extend reservations with just a few simple clicks.
+- Group bookings/reservations
+- User logs & permissions: With so much turnover in the hotel industry, it is important to keep front-line staff accountable with detailed user logs to have an automated record in case of any mistakes, as well as to ensure proper training and issue resolution.
 
 ## Contributors:
-SHAIK IMRAN BASHA
+- SHAIK IMRAN BASHA
+- GOUSE PEERA
+- JAYA CHANDRA 
+- SAI TEJA
